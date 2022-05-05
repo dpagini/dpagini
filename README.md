@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![dpagini's github stats](https://github-readme-stats.vercel.app/api?username=dpagini)
+
+👯 **I’m looking to collaborate on** Drupal projects
+
+😄 **Pronouns** he/him
+
+
 <!--
 **dpagini/dpagini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
